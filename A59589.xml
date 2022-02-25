@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plaine relation of my sufferings, by that miserable combustion, which happened in Tower-street through the unhappy firings of a great quantity of gun-powder, there the 4. of January 1650. Now printed that the world may see what just cause I had to complain of the injuries then done me, and how little reason Mr. Glendon minister of that parish had (especially after three years time and more) to defame me in print as a malicious slanderer of him (though I had strong reason to suspect, I did never positively charge with any thing.) Yet he with as much malice as impertinency, hath inserted his vindication (as he cals it) into his epistle to the reader, put a sermon of his, lately printed, entituled, Justification justified; wherein, however, he hath justified his doctrine, he hath condemned himself (as in reference to me) in the judgement of all rationall persons.</title>
+            <author>Shaw, Hester.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59589</idno>
+            <idno type="STC">Wing S3019</idno>
+            <idno type="STC">ESTC R214767</idno>
+            <idno type="EEBO-CITATION">99826839</idno>
+            <idno type="PROQUEST">99826839</idno>
+            <idno type="VID">31248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59589)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1770:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plaine relation of my sufferings, by that miserable combustion, which happened in Tower-street through the unhappy firings of a great quantity of gun-powder, there the 4. of January 1650. Now printed that the world may see what just cause I had to complain of the injuries then done me, and how little reason Mr. Glendon minister of that parish had (especially after three years time and more) to defame me in print as a malicious slanderer of him (though I had strong reason to suspect, I did never positively charge with any thing.) Yet he with as much malice as impertinency, hath inserted his vindication (as he cals it) into his epistle to the reader, put a sermon of his, lately printed, entituled, Justification justified; wherein, however, he hath justified his doctrine, he hath condemned himself (as in reference to me) in the judgement of all rationall persons.</title>
+                  <author>Shaw, Hester.</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: Hester Shaw.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaw, Hester --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31248:1"/>
+            <p>A PLAINE RELATION OF MY SUFFERINGS, by that Miſerable Combuſtion, which happened in <hi>Tower-ſtreet</hi> through the un<g ref="char:EOLhyphen"/>happy firing of a great quantity of Gun<g ref="char:EOLhyphen"/>powder, there the 4. of <hi>January</hi> 1650.</p>
+            <p>Now Printed that the World may ſee what juſt Cauſe I had to complain of the injuries then done me, and how little reaſon Mr. <hi>Glendon</hi> Miniſter of that Pariſh had (eſpecially after three years time and more) to defame me in Print as a malicious ſlanderer of him (who though I had ſtrong reaſon to ſuſpect, I did never poſitively charge with any thing.) Yet he with as much malice as im<g ref="char:EOLhyphen"/>pertinency, hath inſerted his Vindication (as he cals it) into his Epiſtle to the Reader, put before a Ser<g ref="char:EOLhyphen"/>mon of his, lately printed, Entituled, <hi>Juſtification ju<g ref="char:EOLhyphen"/>ſtified;</hi> wherein, however he hath juſtified his Do<g ref="char:EOLhyphen"/>ctrine, he hath condemned himſelf (as in reference to me) in the judgement of all rationall Perſons.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 18.17.</hi>
+               </bibl> He that is firſt in his own cauſe ſeemeth juſt, but his neighbour commeth and ſearcheth him.</q>
+            <p>London <hi>Printed,</hi> 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:31248:2"/>
+            <pb facs="tcp:31248:2"/>
+            <head>To the Reader.</head>
+            <p>I Am neceſſitated to publiſh this Narrative, in Anſwer to a Rela<g ref="char:EOLhyphen"/>tion of my ſufferings by that ſad ac<g ref="char:EOLhyphen"/>cedent of Gunpouder which befell me and others the 4 of <hi>January</hi> 1650 made and ſet forth by Mr. <hi>Thomas Glendon</hi> Miniſter in that Pariſh. You may pleaſe to believe, I can have no pleaſure in reviewing that direfull Tragedy; wherein ſo many of my dear relations periſhed, together with the increaſe of above forty years toileſome gleaning in the way of my labourious Calling. But find<g ref="char:EOLhyphen"/>ing my ſelf crowded into print with
+<pb facs="tcp:31248:3"/>calumny and reproach; I was the rather prevaled upon by ſome of my beſt friends, not to be ſilent leaſt mine innocency might thereby ſuf<g ref="char:EOLhyphen"/>fer. I have therefore according to my capacity, in the the plain ſtile of a weak woman (with all ſincerity and meekneſs, however provoked) laid before you the grounds and rea<g ref="char:EOLhyphen"/>ſons, why I have ſo frequently com<g ref="char:EOLhyphen"/>plained of that hard meaſure dealt me (before and after the fire happe<g ref="char:EOLhyphen"/>ned) as well by the Magiſtrate as by my Miniſter and neighbour-hood; Yee that have or may read Maſter <hi>Glendons</hi> charge againſt me, look al<g ref="char:EOLhyphen"/>ſo on my defence, and then judge as the Lord ſhall direct, for unto him have I alwayes left my cauſe;</p>
+            <closer>
+               <signed>Heſter Shaw.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:31248:3"/>
+            <p>LOng before that ſad blow in <hi>Tower</hi> ſtreet by Gun<g ref="char:EOLhyphen"/>powder, (ſome years before the Fire in <hi>Thames</hi> ſtreet) I had intelligence given me of Gunpowder which was in that houſe, where the diſaſter after hap<g ref="char:EOLhyphen"/>pened, and that to a great quantity, ſo that the neigh<g ref="char:EOLhyphen"/>bourhood were much afraid of it. My houſe being next adjoyning I went to my neighbour and told him what I had heard, nor could he deny it to be ſo; I did there<g ref="char:EOLhyphen"/>fore pray him, it might be removed ſpeedily, which he pretended could not be done that night without in<g ref="char:EOLhyphen"/>creaſing our danger, but promiſed to remove it the next morning betimes, and in the mean time to watch it all that night himſelf, but this his promiſe not being performed, I urged him to it again, withall telling him that otherwiſe I would acquaint a Magiſtrate therewith before whom ſaid I, you cannot anſwer for it, it being prohibited any man to keep above ſix or eight pounds of Gunpowder at the moſt in his houſe, and that too, not allowed any where, but in an upper room: Thus not without divers hot words, I conſtrained him to re<g ref="char:EOLhyphen"/>move eighteen Barrells, which he ſaid was all, but I, (ſuſpending my belief) ſent for a Conſtable to ſearch his houſe, whereupon we found twelve barrells of powder more; I then underſtood that it had been long his cuſtome to keep great ſtore of powder in his houſe, notwithſtanding he had often been warned thereof:
+<pb n="2" facs="tcp:31248:4"/>Therefore when the Wardmoo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Enqueſt ſate, I wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Conſtable, went and complained thereof unto them, telling them I went in danger of my life, and in<g ref="char:EOLhyphen"/>treating them to take ſome order about it; afterwards alſo, I (being at home) ſeeing them when they came a<g ref="char:EOLhyphen"/>bout their view, went out unto them, and beſpake them to this effect; Gentlemen, I pray, ſearch that houſe now, whereof I have complained unto you, and judge whether it be a fit ſtorehouſe for Gunpowder. I had fair promiſes of them, but nothing at all was done a<g ref="char:EOLhyphen"/>bout it.</p>
+            <p>Afterwards when the ſire broke out in <hi>Thames-ſtreet,</hi> this was complained off again to the Aldermen there preſent, who promiſed to take care about it but yet no<g ref="char:EOLhyphen"/>thing was done: wherefore <hi>M. Singleton</hi> who was then Conſtable, did (through mine inſtigation) make com<g ref="char:EOLhyphen"/>plaint there of at the Seſſions houſe divers times, from time to time, and by his continuall ſolicitation procured it to be taken into examination, but (as appears) it was laid aſide againe, and no reſult (to any purpoſe) came thereof. Wherefore (for my part) I looked every night (when at home) to be blown up, and would ſay to my maid at my lying down, I am now laid ſit for my Coffin, and it may be before to morrow morning, <hi>I</hi> ſhall be blown into the Churchyard for it.</p>
+            <p>It happened that the morning preceding that un<g ref="char:EOLhyphen"/>happy accident, <hi>I</hi> was ſent for by my Lady <hi>Brent</hi> to come to her ſhe being very ill, and with her <hi>I</hi> continued untill that ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> report came to mine ears, which was not untill two of the Clock in the morning after, for my Lady (being deſirous to reſt) had commanded all out of the Chamber, but my ſelf, ſo that when firſt the
+<pb n="3" facs="tcp:31248:4"/>meſſenger came, <hi>I</hi> could receive no intelligence, but yet my Ladies Gentlewoman, and Miſtris <hi>Terry</hi> with her, commanded my Ladies Coach to be made ready, and went to the fire, and continued thereabout up and down, untill they could inform themſelves how things went, and had ſeen my daughter carried wounded in<g ref="char:EOLhyphen"/>to Mr. <hi>Loes</hi> houſe in <hi>Rood</hi>-Lane; after which they re<g ref="char:EOLhyphen"/>turned, and came into my Ladies Chamber, telling her that ſhe muſt needs let me go unto my daughter, which my Lady (as not knowing how ſoon ſhe might have need of me) was very unwilling to ſuffer, untill they promiſed her to accompany me, and bring me back to her; then after they had brought me out of the Cham<g ref="char:EOLhyphen"/>ber, that a diſaſter had happened near my houſe; I an<g ref="char:EOLhyphen"/>ſwered them, that truly <hi>I</hi> thought what <hi>I</hi> feared was fallen upon me, and ſaid, doubtleſſe my next neighbour hath blown me up with Gunpowder, (which gueſſe of mine they con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irming) ſaid <hi>I,</hi> tis no more then <hi>I</hi> ex<g ref="char:EOLhyphen"/>pected; and therefore (bleſſed be God) <hi>I</hi> am in ſome meaſure prepared for it, having laid up my treaſure a<g ref="char:EOLhyphen"/>bove the reach of Gunpowder, and being <hi>I</hi> had no<g ref="char:EOLhyphen"/>thing, nor could have, but what <hi>I</hi> received from mine heavenly Father, <hi>I</hi> was moſt willing to ſuffer his righ<g ref="char:EOLhyphen"/>teous will, if to his onely wiſe providence it had ſeem<g ref="char:EOLhyphen"/>ed meet to call for away again, what he had once be<g ref="char:EOLhyphen"/>ſtowed on me; and was deſirous to lay mine hand upon my mouth, preventing all complaints with this Con<g ref="char:EOLhyphen"/>ſideration, that the greateſt evill on this ſide hell, was leſſe then my demerit, by this time we took Coach, and then came to <hi>Mr. Loe</hi> the Chirurgion his houſe, where <hi>I</hi> met him coming from my daughter, he having newly dreſſed her wounds, who when ſhe ſaw me, fell
+<pb n="4" facs="tcp:31248:5"/>into a great paſſion, but I exhorted her to look up un<g ref="char:EOLhyphen"/>to God, and to compoſe her ſelf to take ſome reſt, and leave the care of her children to me, for whom I would do mine endevours. There were preſent there divers Friends, amon wghom was the Lady Mayoreſſe that now is, whoſe courteous and charitable care I muſt e<g ref="char:EOLhyphen"/>ver acknowledge, for ſhe lent my daughter of her own cloaths to cover her nakedneſſe, and ſhe with Mr. <hi>Loe</hi> and his wife were good Samaritanes to me in the time of my extremity. I went thence unto the Lord Mayor his houſe that now is, by whoſe advice Mr. <hi>Oſ<g ref="char:EOLhyphen"/>burn</hi> the Bricklayer, and his workmen, and labourers, were imployed to look after the materialls of my houſe, and lay them up, whilſt others of my friends-enquired after my goods ſcattered by the powder, and alſo having taken order for that preſent concerning the Bodies of my ſon in Law, his three children and maid, whom I found all ſlain. I again returned to my Lady <hi>Brent,</hi> whom I found ſomewhat eaſed of her pain, there<g ref="char:EOLhyphen"/>fore I again left her about 6 of the clock in the morning went to Mr. <hi>Loe</hi> his houſe, and ſent for my Couſin <hi>White,</hi> and my Couſin <hi>Dewit,</hi> who (in convenient time) went with me, together with Mr. <hi>Loe,</hi> unto Mr. <hi>Glendons</hi> houſe, where we were deſired to go into the Church, which we did, and Mr. <hi>Glendon</hi> came to us, to whom <hi>I</hi> ſaid, that <hi>I</hi> was informed, that ſome bags of money had been brought into his houſe, and if any of them are mine, ſaid <hi>I,</hi> they are ſealed with mine own Seal (ſhewing him my ring, whereon was ingraven the Arms of my Fathers houſe) or elſe with my ſons ſeal (whereon was ingraven the Arms of the <hi>Donns,</hi> quar<g ref="char:EOLhyphen"/>tered with the <hi>Binghams</hi> Arms) and then and there al<g ref="char:EOLhyphen"/>ſo
+<pb n="5" facs="tcp:31248:5"/>Mr. <hi>Abraham Parrot</hi> (who alſo went with me unto Mr. <hi>Glendons</hi>) teſtified unto him, that but a little be<g ref="char:EOLhyphen"/>fore, he had payed me nine hundred and fifty pounds of a Mortgage, all which ſaid he was ſealed up with Mr. <hi>Donns</hi> ſeal, and the beſt of the money marked with the figure of 8. Mr. <hi>Glendon</hi> anſwered, that what had been brought to him he had ſent to Mr. <hi>Ga<g ref="char:EOLhyphen"/>ſteels</hi> houſe in <hi>Crutched Friars,</hi> which (ſaid he) was but two bags, not once naming ought elſe, as my friends then preſent with me can witneſſe. <hi>I</hi> did then preſſe him to let me have my money, becauſe of my preſent neceſſity, but no argument would prevaile with him to ſupply me with one peny, nor did he expreſſe any ſenſe of my affliction, nor give me any word of comfort, and this was the very next day after the fire; and not ſome dayes after, as Mr. <hi>Glendon</hi> hath falſely (though in Print) repreſented to the world.</p>
+            <p>When <hi>I</hi> came back to my daughter, ſhe had (as <hi>I</hi> found) ſent my Chamber maid to ſee if ſhe could heare what was become of any of our goods, who hearing that great ſtore of goods had been carried into Mr. <hi>Glendons</hi> houſe (after ſhe had gleaned up ſome things in the Church yard, which ſhe put into her apron) ſhe went thither, where ſhe was civiliy admitted by Mi<g ref="char:EOLhyphen"/>ſtris <hi>Clendon,</hi> but when Mr. <hi>Glendon</hi> ſaw her, he was very angry, and would let her looke no longer, ſo ſhe came back and told me of it, and alſo certified me that ſhe ſaw a black Cheſt of Drawers of my Daughters, (where ſhe put her wearing Linnen) and my ſilver Salt alſo in <hi>M. Glendons</hi> houſe, this my Lady Mayoreſſe, Mrs. <hi>Loe,</hi> with divers others then preſent know; but when afterwards the Cheſt was brought home, all my daugh<g ref="char:EOLhyphen"/>ters
+<pb n="6" facs="tcp:31248:6"/>beſt Laces, and fineſt Linnen which lay at the bot<g ref="char:EOLhyphen"/>tome were taken away, and the courſer which were put uppermoſt were only left, but who did it I know not, it ſeems that they had time and place to pick and chuſe.</p>
+            <p>My occaſions for money increaſing, I deſired Mr. <hi>Loe</hi> (at noon) to go for my money again to <hi>Mr Glendon,</hi> who went but in vain, then Mr. <hi>Hall</hi> (at my deſire) went for it, after that Mr. <hi>Gail,</hi> then Mr. <hi>Love</hi> the Miniſter, and at night Mr. <hi>Loe</hi> again; but no perſon, nor importunity, nor argument, would prevail with Mr. <hi>Glendon.</hi>
+            </p>
+            <p>The ſame day in the afternoon, came to me one Mi<g ref="char:EOLhyphen"/>ſtreſſe <hi>Hall</hi> with her ſonne <hi>Henry,</hi> and brought with them Mr. <hi>Twigs</hi> man, who informed me, that foure bags of money had been carried into <hi>Mr. Glendons</hi> houſe; but ſaid I to him, <hi>Mr Glendon</hi> ſaith, he had but two bags, to which <hi>Mr. Twiggs</hi> man replyed againe, there were four bags carried into <hi>Mr. Glendons</hi> houſe, for ſaith he two of them, I carried in my ſelf, and then alſo I with o<g ref="char:EOLhyphen"/>thers ſealed up other bags and money beſides in a blew Apron, and delivered them at <hi>Mr Glendons;</hi> afterward finding a bunch of Keyes on a ſilver chain and this bag, (ſhewing me a bag which he had in his hand, and asking me if that were my ſeal on it) I put the money, ſaid he that was in it, into a Napkin, and left it alſo at <hi>Mr. Glen<g ref="char:EOLhyphen"/>dons;</hi> and after that alſo, ſeeing <hi>Mr. Sanders</hi> and his wife in the Churchyard, I delivered the Key, &amp; bag to them, praying <hi>Mr. Sanders</hi> to take care that the ſeal might not be broken, and telling them I was glad to ſinde ſome body that I knew, and as I was telling them, what I had done, a young man that was by hearing me, ſaid to us, that he alſo had carried two bags into <hi>Mr. Glendons,</hi> and ſaid, he was a Gunſmiths man in Eaſt <hi>Smithfield,</hi> but be<g ref="char:EOLhyphen"/>fore
+<pb n="7" facs="tcp:31248:6"/>we could queſtion him further, he was ſuddenly gone.</p>
+            <p>On the Lords day after the fire, I being at ſupper with my Lord Mayor (that now is) at his houſe, took occaſion to acquaint his Lordſhip with Mr. <hi>Glendons</hi> hard uſage of me, in detaining from me my moneys, though I had requeſted it of him my ſelf, and alſo by di<g ref="char:EOLhyphen"/>vers of my friends, as Mr. <hi>Love,</hi> Mr. <hi>Gayle,</hi> Mr. <hi>Hall;</hi> and <hi>Mr. Loe</hi> who had been twice or thrice for it, and that for the ſupply of my preſent neceſſity: my Lord told me that he alſo had ſent M. <hi>Gayle</hi> about it, but as yet, ſaid he, <hi>I</hi> have received no account of it: Then ſaid I to my Lord I perceive what is the reaſon of M. <hi>Glendon</hi>'s evill deal<g ref="char:EOLhyphen"/>ing with me; It is becauſe I have withdrawn my accu<g ref="char:EOLhyphen"/>ſtomed Benevolence from him: When he came firſt to our Pariſh, many of our pariſhoners were gone into the Country, whoſe houſes were left empty; and becauſe alſo I ſaw he had a charge of children, <hi>I</hi> did over and above the accuſtomed Tythes of my houſe, paid for 60 years by my husband and his father, alſo pay unto him an additionall private Benevolence of eight pounds a year, at ſuch times as <hi>I</hi> ſaw fit; and this <hi>I</hi> continued till after Mr <hi>Graves</hi> the Gun-ſmith was choſen Church<g ref="char:EOLhyphen"/>warden, with whoſe wife falling into diſcourſe one day, as <hi>I</hi> went by, ſhe told me from Mr. <hi>Glendon,</hi> that he would take it very kindly if <hi>I</hi> would ſubſcribe what <hi>I</hi> had given him, becauſe it might move other of the pa<g ref="char:EOLhyphen"/>riſhoners to a more liberall Contribution: <hi>I</hi> told her that Mr. <hi>Glendon</hi> ſhewed himſelf an unworthy man, in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot being contented with what <hi>I</hi> had freely done, but alſo in ſeeking to make me his Lure to draw others on to it; and oblige us all by a publique Subſcription to
+<pb n="8" facs="tcp:31248:7"/>a thing which is but arbitrary; but (ſaid I) therefore I will withdraw my hand, and ſo I did And this is the cauſe of his dealing thus with me; but (ſaid I) to mor<g ref="char:EOLhyphen"/>row I will know whether the money be his or mine; If his, tis fit he ſhould keep it, if mine, I know no reaſon why he ſhould detain it. I know moreover, that in all probability all the bags of money muſt be mine; for none of my neighbours who ſuffered by that ſad blow could loſe much in money by it; ſome of them being known to be neceſſitous perſons, eſpecially at that in<g ref="char:EOLhyphen"/>ſtant, for Mr. <hi>Porter</hi> in whoſe houſe, and by whoſe re<g ref="char:EOLhyphen"/>miſneſie it came, had purpoſely brought that Powder into his ſhop to ſend it away for moneys to be lent up<g ref="char:EOLhyphen"/>on it; the Shoemaker alſo next doore to him, confeſſed that he then wanted money to buy Leather for his ſhop, (being alwayes thought a poore man) and the other ſufferers which were of quality (as Mr <hi>Wormell</hi> the Vine<g ref="char:EOLhyphen"/>tener at the Roſe on the one ſide; and Captain <hi>Compton</hi> on the other ſide, had their Cloſers quite backwards where the powder could have no ſuch power: But I was n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the power of the powder, and had at that time onhappily drawn in my money for a purchaſe. I told my Lord alſo, what occaſion <hi>I</hi> had for my mo<g ref="char:EOLhyphen"/>ney, ſaying, I was loath to borrow ſo long as I had any of mine own left me: And ſince <hi>I</hi> could not obtain it of Mr. <hi>Glendon</hi> by fair means, <hi>I</hi> was reſolved to ſeek it by publique Juſtice; My Lord then deſired that he might firſt ſpeak with Mr. <hi>Glendon</hi> before I took any o<g ref="char:EOLhyphen"/>ther courſe: <hi>I</hi> ſaid, if he pleaſed to do it from himſelf, he might, but n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as from me. Then my Lord would have ſent preſently for Mr. <hi>Glendon,</hi> but ſaid, <hi>I,</hi> tis the Lords day, and therefore no ſit time, ſo after ſupper <hi>I</hi> went home to Mr <hi>Loes.</hi>
+            </p>
+            <pb n="9" facs="tcp:31248:7"/>
+            <p>And the next day being the firſt <hi>Monday</hi> after the fire, I went again to my Lord Mayors (that now is) who lent me a room to ſecure ſome of my goods pre<g ref="char:EOLhyphen"/>ſerved for me by ſome faithfull friends, and while I was there, my Lord came in, but ſome other occaſion cal<g ref="char:EOLhyphen"/>led him ſuddenly back again, ſo that I ſaw him no more that day; afterwards being in the Parlour, by and by, came in Alderman <hi>Andrews,</hi> and Mr <hi>Glendon,</hi> who ſtood by the Chimney, but the Alderman walked up and down the room, ſeemingly very angry, ſaying, it was no marvel that my name was up almoſt in every ones mouth, I asked for what, he ſaid, for that I took upon me ſo plainly to blame the Magiſtrate for not prevent<g ref="char:EOLhyphen"/>ing that ſad accident. Sir (ſaid I) I will own what I have ſaid as to that buſineſſe, having complained thereof in mine own perſon, ſeverall times, and cauſed complaint thereof to be made to the Enqueſt of the Ward, to the Aldermen, and at the Seſſions houſe; the Alder<g ref="char:EOLhyphen"/>man then ſaid, that he he marvelled that he had never heard of it. So after ſome more diſcourſe (to that pur<g ref="char:EOLhyphen"/>poſe) he went with me to <hi>Mr Felgates</hi> houſe, where he had ſecured ſome of my moneyes, which had been ga<g ref="char:EOLhyphen"/>thered up, and delivered to him in the time of that mi<g ref="char:EOLhyphen"/>ſerable combuſtion, but when we came there, we found a padlock upon the doore, and underſtood that the money was carried to St. <hi>Katharines,</hi> (ſo the Alderman gave me order to receive it there (which afterward I did accordingly) Then we came back to <hi>Mr Glendons</hi> houſe, where the Alderman whiſpered <hi>Mr Glendon</hi> in the car, and ſo departed. After this the blew Apron was brought forth ſealed up, and alſo the money in the Napkin with my name upon it (as <hi>Mr Twigs</hi> man had
+<pb n="10" facs="tcp:31248:8"/>me) which Apron and Napkin, with two bags mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> alſo I received, and gave <hi>Mr Glendon</hi> my bond to ſav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him harmleſſe, which he needed not to have feared, the bags being ſealed with my ſons ſeal, and the other things all evidently appearing to be mine, and more a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſo then I received; for whilſt I was there, I ſaw one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my new green Aprons in the hands of one of <hi>Mr Glen<g ref="char:EOLhyphen"/>dons</hi> daughters, who was ſtringing it with mine own ſtrings, but being buſie, talking with the Lieutenant <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Tower, and Colonel <hi>Witchcot</hi> (my very goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> friends) ſhe was ſuddenly called away before I could challenge it. By and by, Mrs <hi>Glendon</hi> came in bring<g ref="char:EOLhyphen"/>ing two half Crowns in her hand, which ſhe ſaid he children had taken up on the Church Leads; I the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> told her I was informed, that great ſtore of money w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (by the powder) ſeartered there, but I would receive nothing, but what was marked with mine own name or mark, nor did I. So when I had given <hi>Mr Glendon</hi> m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bond for his ſecurity, <hi>I</hi> ſaid to him, Sir, (as I under<g ref="char:EOLhyphen"/>ſtand) you have a ſilver Salt of mine in your houſe, which ſure you cannot but know, it having my name on it, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had it not, you have been oft enough at my Table <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> take notice of it;<note place="margin">this it <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>urs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er Salt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>led up in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> blew <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ron, as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>Glen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> deli<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s in <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nt.</note> at which words he went in, and fe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ched it to me; and I, taking it into my hand turned the mark towards him, (and ſhaking my head) ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pray <hi>Mr Glendon,</hi> whoſe Salt is this; but he gave m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never a word, as my friends then preſent can teſtifi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for this was not done in a corner. I did expect that <hi>Mr Glendon</hi> would have invited me to look what Goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of mine might be in his houſe, which liberty he cou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> allow unto ſtrangers, but deny to me, which was m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely an unneighborly diſcourteſie, but great injuſtic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="11" facs="tcp:31248:8"/>and I think, had I fallen into the hands of heathens, I ſhould have found more righteous dealing then <hi>I</hi> did from <hi>Mr Glendon</hi> and others. For beſides the difficulties <hi>I</hi> met with, before <hi>I</hi> obtained that little remnant of money out of the Parſons hands, it pleaſed the Church<g ref="char:EOLhyphen"/>wardens of his Pariſh, to take from me the materialls of mine houſe (unto the uſe of the Pariſh) which coſt me unto <hi>Mr Osburn</hi> the Bricklayer (before named) 12 l. od money (as by his receipt appears) for his pains and his Labourers to lay them up in the Churchyard for me, yet this <hi>I</hi> ſuffered, being taken off from ſeeking to right my ſelf, ſomewhat by the perſwaſion of my Lord May<g ref="char:EOLhyphen"/>or (that now is) but more by the duties of my Calling, having the lives of divers under my care (at that time) whom my conſcience did command me to wait upon, how evilly ſoever the world requited me. And thus <hi>I</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt an eſtate of above three thouſand pounds, without any remedy or recompence, but of my good God who hath kept me in my wits, given me ſtrength to labour, and bleſſed me in my labours.</p>
+            <p>As for Mr. <hi>Blackwells</hi> comming to me from Mr. <hi>Glen<g ref="char:EOLhyphen"/>den,</hi> I ſuppoſe it was thus occaſioned; Mr. <hi>Peck</hi> a Mi<g ref="char:EOLhyphen"/>niſter (now deceaſed) met me at Mr. <hi>Cutlers</hi> childes bap<g ref="char:EOLhyphen"/>tizing; where falling into diſcourſe of the fire, he told me, that he was one of the firſt that after came to Mr. <hi>Glendon,</hi> who told him that when the blow was given two bags of money were blown into his Study over the Table (he ſitting at it) and twas a great mercy that they hit him not, (for ſaid he) they would have killed me then: and Mr <hi>Peck</hi> told me alſo that he then went upon the Church-leads, and ſaw there much money lie ſcat<g ref="char:EOLhyphen"/>tered; I told him, ſure he was miſtaken, for Mr. <hi>Glen<g ref="char:EOLhyphen"/>don,</hi>
+               <pb n="12" facs="tcp:31248:9"/>(ſaid I) hath no more then what others brought in his houſe, which he ſaith, are but two bags, and no<g ref="char:EOLhyphen"/>thing was blown in; to which Mr. <hi>Peck</hi> anſwered, that he had told me nothing but the truth: I replyed to him again, that I marvelled that Mr. <hi>Glendon</hi> would conceale the having of any thing that was not his own from me, who in all probability had right to it. Mr. <hi>Peck</hi> then willed me to call him in queſtion about it; but then I muſt (ſaid I) examine all his family; and there is one of them hath reported in the <hi>Minories,</hi> that there were two Gown-rols belonging to my Lady <hi>Baker</hi> (who once lay at my houſe) which Gown-rowls were quilted with gold, blown up with the powder from my houſe, and that theſe rowls lay in Mr. <hi>Glendon</hi>'s Garrets, untill the Inventory of ſome cheif things which were loſt, was printed, and then the gold was ript from the rowls, and the rowls were burnt which (ſaid I) by the Law is Felony yet thought looſe all I have in the world, I will not in<g ref="char:EOLhyphen"/>danger any mans life about; and though they get never ſo much unjuſtly, yet it wil do them no good in the end but rather prove a Moath to them; and I know (ſaid I my heavenly father will provide things convenient for me; Mr. <hi>Peck</hi> then told me that he would ſpeake with Mr. <hi>Glendon</hi> about it; and after this Mr. <hi>Blackwell</hi> came to me from Mr. <hi>Glendon,</hi> to whom, when I had related how jewiſhly Mr. <hi>Glendon</hi> had dealt with me, he ſeemed to be very ſorry, and wiſhed that the buſineſſe might <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> taken up by ſome Miniſters or others; But Sir, ſaid I, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing of this nature is more fit to be decided by a Magi<g ref="char:EOLhyphen"/>ſtrate, ſo Mr. <hi>Blackwell</hi> departed; And as for Mr. <hi>Ca<g ref="char:EOLhyphen"/>lamy</hi> and Mr. <hi>Cranford,</hi> they never come to me from Mr.
+<pb n="13" facs="tcp:31248:9"/>
+               <hi>Glendon,</hi> and beleive them to be wiſer men then to med<g ref="char:EOLhyphen"/>dle with the matter.</p>
+            <p>Thus, as well as I could, and without injury to the truth, I have ſet down a review of that late unhappy blow by Gun-powder, with thoſe circumſtances which were neceſſary to vindicate mine own innocency, and make up a clear repreſentation of Mr. <hi>Glendons</hi> dealing towards me; For which, if any ſhall Judge him worthy of thanks, let them give credit unto what Mr. <hi>Glendon</hi> delivers in his printed Vindication (as he cals it) <hi>viz.</hi> That Mr. <hi>Loe</hi> came to him, to give him thanks in my name, for preſerving ſo much of mine eſtate for me. In<g ref="char:EOLhyphen"/>deed, I ſent Mr. <hi>Glendon</hi> twenty ſhilling by Mr. <hi>Loe,</hi> for the burying the bodies of my Children, and what Mr <hi>Loe</hi> in way of Complement might ſay to him, I know not; but as for that particular, that I ſhould give him thanks, &amp;c. Since, I perceive, Mr. <hi>Glendon</hi> by the rela<g ref="char:EOLhyphen"/>tion of that, would inſinuate, that after I had found and was fully ſatisfied of his neighbourly and upright deal<g ref="char:EOLhyphen"/>ing towards me (for elſe ſure none will think I gave him thanks) I ſhould (being through malice &amp; covetouſnes inclined to give credit to every flying report) ſlander him and detract from his good name. I muſt out of love to the truth, and reſpect to mine credit, utterly deny, and profeſſe, that I never ſent him one word of thanks for preſerving any of mine eſtate; and how he preſerved it, theſe particulars may ſhew:
+<list>
+                  <item>Firſt, Neither he nor his Wiſe ever ſent me word of mony or ought elſe that were brought into their houſe; and for ought, I know, I ſhould never have known he had any, had I not heard of it by others; and thoſe more than a few, who told me, that great ſtore of money and
+<pb n="14" facs="tcp:31248:10"/>goods were carried into Mr. <hi>Glendons</hi> houſe.</item>
+                  <item>Secondly, he never permitted me to ſee what goods of mine were in his houſe, nor would he ſuffer my Maid to ſee, but chid her forth after his wife had let her in.</item>
+                  <item>Thirdly, though Mr. <hi>Glendon</hi> had my ſilver Salt in his houſe (marked with my name) yet he never gave it me of himſelf, nor told me of it, no, though I had re<g ref="char:EOLhyphen"/>ceived other things of him, and given him my diſcharge and had not my maid told me, ſhe ſaw it there, where<g ref="char:EOLhyphen"/>upon I challenged it, I think I ſhould have loſt it.</item>
+                  <item>Fourthly, when I came with my friends to Mr. <hi>Glen<g ref="char:EOLhyphen"/>don</hi>'s and ſhewed him my Seal, and told him of my Sons; he then confeſſed but two bags he had, which he had ſent to Mr. <hi>Caſteels</hi> (as he ſaid) though <hi>Mr. Twigs</hi> man told me of four bags, two which himſelf had carried in and two others which a Gun-ſmiths man had carried in: And alſo Mr. <hi>Peck</hi> the miniſter told me of two more which Mr. <hi>Glendon</hi> himſelf confeſſed were blown into his Study. Had others dealt no better with me, all the Evidences of my Land had been loſt, but they were ſent me home ſafe, and that by Strangers, who ſought me out, when Mr. <hi>Glendon,</hi> whoſe wife <hi>I</hi> had laid of two Children, and one miſchance freely, and done other courteſies beſides to them both, would not eaſiely let me have mine own with intreaty.</item>
+               </list>
+            </p>
+            <p>It now remains, that I make uſe of this opportuni<g ref="char:EOLhyphen"/>ty, to clear the truth from that falſe report, which makes me a gainer by this blow, (if conſidering the loſſe of my Son, and three Grandchildren I may be ſaid to be ſo) But abſtracting that, compare three thouſand pounds, (which is within the value of what I loſt there) with all which I after received from others
+<pb n="15" facs="tcp:31248:10"/>(by way of gift) whether in Money, Linnen, Wool<g ref="char:EOLhyphen"/>en or Stuffe, whoſe utmoſt value amounts not to above fifteen pounds, (excepting a ſilver Tankard, which was given me by Alderman <hi>Viner</hi> (mine ever honoured friend) and I ſay, if this exceed 3000 l. I will then con<g ref="char:EOLhyphen"/>feſſe my ſelf a gainer by my loſſe. However <hi>I</hi> deſire to be content and thankfull that God hath given me an honeſt Calling, and ſtrength to follow it in mine old age, and doth continue his bleſſing to me in it, and as my long continued experience of his mercy doth en<g ref="char:EOLhyphen"/>courage me, ſo alſo <hi>I</hi> deſire to caſt my ſelf wholly upon him w<hi rend="sup">th</hi> full confidence, that (as he hath ſaid) ſo he will defend the widow &amp; fatherles, and though men be un<g ref="char:EOLhyphen"/>righteous, <hi>I</hi> doubt not but God the righteous judge will plead my cauſe w<hi rend="sup">ch</hi> I leave to him, praying him to ſhew them more mercy then they did me; for their mercy to me was cruelty, and had my life (as my goods were) been in their hands, perhaps they would have taken that too; but all the powers of darknes <hi>I</hi> know are li<g ref="char:EOLhyphen"/>mitted; Sathan could not touch <hi>Jobs</hi> ſubſtance, nor perſon without Commiſſion; nor can all the world doe more to me then God hath appointed, who will (<hi>I</hi> hope) give me a willing mind to beare what he ſeeth good to lay upon me, and alſo ſanctifie it unto me. By his grace, <hi>I</hi> not onely pray thy will be done, but alſo endevour to do and ſuffer it, deſiring ſo to be crucified to the world and it to me, that being looſe from creature comforts and relations, <hi>I</hi> may with more freedome aſpire unto him, and finiſh my courſ here with joy to receive an in<g ref="char:EOLhyphen"/>heritance hereafter with him, where <hi>I</hi> ſhall know no more ſorrow, for which come Lord Jeſus, come quickly.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="14" facs="tcp:31248:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:31248:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
